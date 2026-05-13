@@ -26,6 +26,7 @@ Projekt jest zoptymalizowany pod działanie lokalne.
 1.  Upewnij się, że masz zainstalowany PHP.
 2.  Uruchom plik `run.bat` znajdujący się w głównym folderze.
 3.  Skrypt automatycznie znajdzie PHP, uruchomi serwer i otworzy przeglądarkę pod adresem `http://localhost:8000`.
+4. Przed tym zaakceptuj regulamin aplikacji
 
 ## 📌 Informacje Techniczne
 
