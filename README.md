@@ -1,7 +1,7 @@
 # 📺 Video-Tube - Profesjonalna Platforma Video (Teb Edukacja)
 
 **Autor:** Dmytro Kyrulenko nr 14\
-**Projekt:** Zaawansowany klon YouTube stworzony na potrzeby technikum.
+**Projekt:** Zaawansowany klon YouTube.
 
 Video-Tube to nie tylko prosty odtwarzacz wideo, ale kompletny ekosystem do hostowania i zarządzania treściami multimedialnymi, zbudowany od podstaw w technologii PHP, SQLite i Vanilla JS.
 
