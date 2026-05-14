@@ -1,4 +1,4 @@
-# 📺 Video-Tube - Profesjonalna Platforma Video (Teb Edukacja)
+# 📺 Video-Tube - Platforma Video Zrobiono w celach edukacyjnych 
 
 **Autor:** Dmytro Kyrulenko nr 14\
 **Projekt:** Zaawansowany klon YouTube.
